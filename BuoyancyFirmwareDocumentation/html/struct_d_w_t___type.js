@@ -1,0 +1,26 @@
+var struct_d_w_t___type =
+[
+    [ "COMP0", "struct_d_w_t___type.html#aeacde168ced0475db9df236b0d54c424", null ],
+    [ "COMP1", "struct_d_w_t___type.html#a6de0fd320770d828ae6ef85235bf58dc", null ],
+    [ "COMP2", "struct_d_w_t___type.html#a301d43ccd4dd1e4549495277aa7dd650", null ],
+    [ "COMP3", "struct_d_w_t___type.html#a90c27b1712fa2ffade356bfc247b077d", null ],
+    [ "CPICNT", "struct_d_w_t___type.html#aa30309493a12b8e4c8eebae47ea6a96f", null ],
+    [ "CTRL", "struct_d_w_t___type.html#acc539c9ddc2ca217f7977155acbead90", null ],
+    [ "CYCCNT", "struct_d_w_t___type.html#ab4f405824832d783461b43d2b462d8f3", null ],
+    [ "EXCCNT", "struct_d_w_t___type.html#a7f8556f145a12362f7717d2e3a17342c", null ],
+    [ "FOLDCNT", "struct_d_w_t___type.html#a1b17481673b452c317187ea21c09b7e0", null ],
+    [ "FUNCTION0", "struct_d_w_t___type.html#a7ab023a2b029f26edeee48b158721293", null ],
+    [ "FUNCTION1", "struct_d_w_t___type.html#ab5dae9c3e8e768df202af4469a6f9124", null ],
+    [ "FUNCTION2", "struct_d_w_t___type.html#a0832c39e82d6006ef7b4b516d04ca8ad", null ],
+    [ "FUNCTION3", "struct_d_w_t___type.html#a18f3d1f05cfa97f1c1a40726554699ca", null ],
+    [ "LSUCNT", "struct_d_w_t___type.html#a8e3187933c2db7c04cd4bf86f3b6574a", null ],
+    [ "MASK0", "struct_d_w_t___type.html#a2f7e823e036215f150c8c1465fe356c2", null ],
+    [ "MASK1", "struct_d_w_t___type.html#ac8e95bc09bdef7313c41574fb1699a75", null ],
+    [ "MASK2", "struct_d_w_t___type.html#a0558f5b6bd74955790522edc1781983e", null ],
+    [ "MASK3", "struct_d_w_t___type.html#abfc4c310200117066091046343d780ae", null ],
+    [ "PCSR", "struct_d_w_t___type.html#a8112e6a4a83d3fca7aee49eb909f47bb", null ],
+    [ "RESERVED0", "struct_d_w_t___type.html#a37ff1c5ca91c4a545bde7f8a3301a563", null ],
+    [ "RESERVED1", "struct_d_w_t___type.html#a22597a52981a247dfd72fc83fb1a54a3", null ],
+    [ "RESERVED2", "struct_d_w_t___type.html#afc320edff930c9d2db6be3af044bff2a", null ],
+    [ "SLEEPCNT", "struct_d_w_t___type.html#aaedfa1d31153931935cd146bade3218c", null ]
+];

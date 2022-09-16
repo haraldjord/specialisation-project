@@ -1,0 +1,25 @@
+var struct_n_r_f___m_w_u___type =
+[
+    [ "EVENTS_PREGION", "struct_n_r_f___m_w_u___type.html#a5f62ec66011d60d1bd868e76fe0e2dd3", null ],
+    [ "EVENTS_REGION", "struct_n_r_f___m_w_u___type.html#a9dd33e1a5a9a0f6fa9dbdfef3908bafe", null ],
+    [ "INTEN", "struct_n_r_f___m_w_u___type.html#a6357137b33c3b42337d5a5670728e580", null ],
+    [ "INTENCLR", "struct_n_r_f___m_w_u___type.html#a5f5b4842b22514904986c96b3abf2948", null ],
+    [ "INTENSET", "struct_n_r_f___m_w_u___type.html#abf7bd36b819f95982bf3df45262e298c", null ],
+    [ "NMIEN", "struct_n_r_f___m_w_u___type.html#adf04c1d642a3b1b900a92107beedc5c5", null ],
+    [ "NMIENCLR", "struct_n_r_f___m_w_u___type.html#a6bcaa121fecf38b2c4ead3c77dd72b26", null ],
+    [ "NMIENSET", "struct_n_r_f___m_w_u___type.html#a74a79674d91839ce7da7144eccd56a14", null ],
+    [ "PERREGION", "struct_n_r_f___m_w_u___type.html#a5701574df152ccbba03cc66818c46a8e", null ],
+    [ "PREGION", "struct_n_r_f___m_w_u___type.html#ae58e47b03a6d7f798f479b067c4acb7a", null ],
+    [ "REGION", "struct_n_r_f___m_w_u___type.html#ad86237c6b01fd7a830fba4bedd7c4c5c", null ],
+    [ "REGIONEN", "struct_n_r_f___m_w_u___type.html#a64e1bfe297000472e972572cad09fc6d", null ],
+    [ "REGIONENCLR", "struct_n_r_f___m_w_u___type.html#afb3ac8399de5e5b6e7bf0829f2927d63", null ],
+    [ "REGIONENSET", "struct_n_r_f___m_w_u___type.html#a177979018e1642aa9df86413e1b42ae2", null ],
+    [ "RESERVED", "struct_n_r_f___m_w_u___type.html#a0938e9e73d40dbb714ee1efd104f71a8", null ],
+    [ "RESERVED1", "struct_n_r_f___m_w_u___type.html#a528074838e69ba095304e4ef3e05e756", null ],
+    [ "RESERVED2", "struct_n_r_f___m_w_u___type.html#a21df32b3f4a2ff8f36b40136ed9fdf7a", null ],
+    [ "RESERVED3", "struct_n_r_f___m_w_u___type.html#a952f84d65315552874d3dce9602ff743", null ],
+    [ "RESERVED4", "struct_n_r_f___m_w_u___type.html#a32bef76af1c7ad7555b9f07bb1cf1810", null ],
+    [ "RESERVED5", "struct_n_r_f___m_w_u___type.html#a2779cb901dcef87c3dfab9feb84d57da", null ],
+    [ "RESERVED6", "struct_n_r_f___m_w_u___type.html#aa309891707a03a1fb6ffe05d7f7b60ac", null ],
+    [ "RESERVED7", "struct_n_r_f___m_w_u___type.html#a25358bea6844227eb738bcfa20062878", null ]
+];

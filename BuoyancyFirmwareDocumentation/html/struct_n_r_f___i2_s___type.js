@@ -1,0 +1,25 @@
+var struct_n_r_f___i2_s___type =
+[
+    [ "CONFIG", "struct_n_r_f___i2_s___type.html#a8eb2723aa28d4e3052e5d9ab004cb90f", null ],
+    [ "ENABLE", "struct_n_r_f___i2_s___type.html#aab843ba0fa395862b6286503828e9432", null ],
+    [ "EVENTS_RXPTRUPD", "struct_n_r_f___i2_s___type.html#a3081affdfe29dcc4d3f70020f0178a63", null ],
+    [ "EVENTS_STOPPED", "struct_n_r_f___i2_s___type.html#a5e7e483fd7762643ce337ff904676279", null ],
+    [ "EVENTS_TXPTRUPD", "struct_n_r_f___i2_s___type.html#ad1a004a9b1c87f9064c78e13e4fc1a90", null ],
+    [ "INTEN", "struct_n_r_f___i2_s___type.html#a6357137b33c3b42337d5a5670728e580", null ],
+    [ "INTENCLR", "struct_n_r_f___i2_s___type.html#a5f5b4842b22514904986c96b3abf2948", null ],
+    [ "INTENSET", "struct_n_r_f___i2_s___type.html#abf7bd36b819f95982bf3df45262e298c", null ],
+    [ "PSEL", "struct_n_r_f___i2_s___type.html#a27f90480a7a36e9bf16d283f6881bbeb", null ],
+    [ "RESERVED", "struct_n_r_f___i2_s___type.html#a052ed6a671fb2cc6c2c65882c041d528", null ],
+    [ "RESERVED1", "struct_n_r_f___i2_s___type.html#a36a5f3782b5d1018933bee9a2b9481b3", null ],
+    [ "RESERVED2", "struct_n_r_f___i2_s___type.html#a4845c5db7938773913a75e66622a9464", null ],
+    [ "RESERVED3", "struct_n_r_f___i2_s___type.html#a2a3f7ecea5f533dc0a32712788b71aa4", null ],
+    [ "RESERVED4", "struct_n_r_f___i2_s___type.html#abbb0e6b52b2e2fd3da0d155dc4f5e5a1", null ],
+    [ "RESERVED5", "struct_n_r_f___i2_s___type.html#a3e0e302f661e4d568505ff8b6206bf02", null ],
+    [ "RESERVED6", "struct_n_r_f___i2_s___type.html#ab27c442dac2a73b366e3ed5d976bfb62", null ],
+    [ "RESERVED7", "struct_n_r_f___i2_s___type.html#a1c6d7e11a9cc784d2e0fcf89c48c5e65", null ],
+    [ "RXD", "struct_n_r_f___i2_s___type.html#a4c73a2f6871b8800160b0cc48101a1c1", null ],
+    [ "RXTXD", "struct_n_r_f___i2_s___type.html#a0d73c81491900c494137700c9d4c1618", null ],
+    [ "TASKS_START", "struct_n_r_f___i2_s___type.html#a6adef238d1a849ad7c5d667678f94a31", null ],
+    [ "TASKS_STOP", "struct_n_r_f___i2_s___type.html#a181c07cb52c16ab68e27ebc7a26397a1", null ],
+    [ "TXD", "struct_n_r_f___i2_s___type.html#aa42c61e8ff2e569735707282594fb01b", null ]
+];

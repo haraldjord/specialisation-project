@@ -1,0 +1,4 @@
+<map id="nrf_drv_uart_event_t" name="nrf_drv_uart_event_t">
+<area shape="rect" id="node2" href="$structnrf__drv__uart__xfer__evt__t.html" title="nrf_drv_uart_xfer_evt_t" alt="" coords="5,5,161,32"/>
+<area shape="rect" id="node3" href="$structnrf__drv__uart__error__evt__t.html" title="nrf_drv_uart_error\l_evt_t" alt="" coords="113,95,237,136"/>
+</map>

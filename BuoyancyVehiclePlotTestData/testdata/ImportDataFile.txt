@@ -1,0 +1,1 @@
+Copy datafile from missionLog folder to matlabProject 'testdata' folder (this folder).

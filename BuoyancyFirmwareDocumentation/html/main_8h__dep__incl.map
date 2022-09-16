@@ -1,0 +1,27 @@
+<map id="main.h" name="main.h">
+<area shape="rect" id="node2" href="$_i2_c_8h.html" title="Drivers/I2C/I2C.h" alt="" coords="5,80,131,107"/>
+<area shape="rect" id="node4" href="$motor_8h.html" title="Drivers/Motor/motor.h" alt="" coords="155,80,304,107"/>
+<area shape="rect" id="node6" href="$_p_w_m_8h.html" title="Drivers/PWM/PWM.h" alt="" coords="328,80,477,107"/>
+<area shape="rect" id="node8" href="$_s_a_a_d_c_8h.html" title="Drivers/SAADC/SAADC.h" alt="" coords="502,80,679,107"/>
+<area shape="rect" id="node10" href="$_s_dcard_8h.html" title="Drivers/SDcard/SDcard.h" alt="" coords="704,80,875,107"/>
+<area shape="rect" id="node12" href="$_t_w_i_m_8h.html" title="Drivers/TWIM/TWIM.h" alt="" coords="899,80,1053,107"/>
+<area shape="rect" id="node14" href="$_u_a_r_t_8h.html" title="Drivers/UART/UART.h" alt="" coords="1077,80,1235,107"/>
+<area shape="rect" id="node16" href="$main_8c.html" title="Copyright (c) 2014 &#45; 2019, Nordic Semiconductor ASA. " alt="" coords="1287,229,1348,256"/>
+<area shape="rect" id="node17" href="$_f_s_m_8h.html" title="Program/FSM/FSM.h" alt="" coords="1488,155,1635,181"/>
+<area shape="rect" id="node20" href="$menu_8h.html" title="Program/Menu/menu.h" alt="" coords="1309,80,1464,107"/>
+<area shape="rect" id="node22" href="$mission_8h.html" title="Program/Mission/mission.h" alt="" coords="1710,155,1890,181"/>
+<area shape="rect" id="node24" href="$_p_i_d_8h.html" title="Program/PID/PID.h" alt="" coords="1829,80,1965,107"/>
+<area shape="rect" id="node26" href="$timers_8h.html" title="Program/Timers/timers.h" alt="" coords="1563,80,1730,107"/>
+<area shape="rect" id="node3" href="$_i2_c_8c.html" title="Drivers/I2C/I2C.c" alt="" coords="5,155,131,181"/>
+<area shape="rect" id="node5" href="$motor_8c.html" title="Drivers/Motor/motor.c" alt="" coords="155,155,304,181"/>
+<area shape="rect" id="node7" href="$_p_w_m_8c.html" title="Drivers/PWM/PWM.c" alt="" coords="328,155,477,181"/>
+<area shape="rect" id="node9" href="$_s_a_a_d_c_8c.html" title="Drivers/SAADC/SAADC.c" alt="" coords="502,155,679,181"/>
+<area shape="rect" id="node11" href="$_s_dcard_8c.html" title="Drivers/SDcard/SDcard.c" alt="" coords="704,155,875,181"/>
+<area shape="rect" id="node13" href="$_t_w_i_m_8c.html" title="Drivers/TWIM/TWIM.c" alt="" coords="899,155,1053,181"/>
+<area shape="rect" id="node15" href="$_u_a_r_t_8c.html" title="Drivers/UART/UART.c" alt="" coords="1077,155,1235,181"/>
+<area shape="rect" id="node18" href="$_f_s_m_8c.html" title="Program/FSM/FSM.c" alt="" coords="1417,229,1564,256"/>
+<area shape="rect" id="node19" href="$timers_8c.html" title="Program/Timers/timers.c" alt="" coords="1589,229,1755,256"/>
+<area shape="rect" id="node21" href="$menu_8c.html" title="Program/Menu/menu.c" alt="" coords="1309,155,1464,181"/>
+<area shape="rect" id="node23" href="$mission_8c.html" title="Program/Mission/mission.c" alt="" coords="1779,229,1959,256"/>
+<area shape="rect" id="node25" href="$_p_i_d_8c.html" title="Program/PID/PID.c" alt="" coords="1915,155,2051,181"/>
+</map>

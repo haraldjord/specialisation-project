@@ -1,0 +1,5 @@
+<map id="NRF_TWIS_Type" name="NRF_TWIS_Type">
+<area shape="rect" id="node2" href="$struct_t_w_i_s___t_x_d___type.html" title="TWIS_TXD_Type" alt="" coords="5,5,132,32"/>
+<area shape="rect" id="node3" href="$struct_t_w_i_s___r_x_d___type.html" title="TWIS_RXD_Type" alt="" coords="157,5,285,32"/>
+<area shape="rect" id="node4" href="$struct_t_w_i_s___p_s_e_l___type.html" title="TWIS_PSEL_Type" alt="" coords="309,5,442,32"/>
+</map>

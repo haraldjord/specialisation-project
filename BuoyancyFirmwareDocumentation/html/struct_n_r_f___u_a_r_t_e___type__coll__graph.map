@@ -1,0 +1,5 @@
+<map id="NRF_UARTE_Type" name="NRF_UARTE_Type">
+<area shape="rect" id="node2" href="$struct_u_a_r_t_e___p_s_e_l___type.html" title="UARTE_PSEL_Type" alt="" coords="5,5,151,32"/>
+<area shape="rect" id="node3" href="$struct_u_a_r_t_e___r_x_d___type.html" title="UARTE_RXD_Type" alt="" coords="175,5,315,32"/>
+<area shape="rect" id="node4" href="$struct_u_a_r_t_e___t_x_d___type.html" title="UARTE_TXD_Type" alt="" coords="339,5,478,32"/>
+</map>

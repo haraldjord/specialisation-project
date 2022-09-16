@@ -1,0 +1,7 @@
+<map id="NRF_MWU_Type" name="NRF_MWU_Type">
+<area shape="rect" id="node2" href="$struct_m_w_u___p_r_e_g_i_o_n___type.html" title="MWU_PREGION_Type" alt="" coords="36,5,197,32"/>
+<area shape="rect" id="node3" href="$struct_m_w_u___p_e_r_r_e_g_i_o_n___type.html" title="MWU_PERREGION_Type" alt="" coords="27,56,207,83"/>
+<area shape="rect" id="node4" href="$struct_m_w_u___e_v_e_n_t_s___r_e_g_i_o_n___type.html" title="MWU_EVENTS_REGION_Type" alt="" coords="10,107,223,133"/>
+<area shape="rect" id="node5" href="$struct_m_w_u___r_e_g_i_o_n___type.html" title="MWU_REGION_Type" alt="" coords="41,157,193,184"/>
+<area shape="rect" id="node6" href="$struct_m_w_u___e_v_e_n_t_s___p_r_e_g_i_o_n___type.html" title="MWU_EVENTS_PREGION_Type" alt="" coords="5,208,228,235"/>
+</map>

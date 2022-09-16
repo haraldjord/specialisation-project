@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['nrf_5fdrv_5fuart_5fevt_5ftype_5ft',['nrf_drv_uart_evt_type_t',['../nrf__drv__uart___p_p_8c.html#aa84abd1db22d7293580ea4a589e8b454',1,'nrf_drv_uart_PP.c']]],
+  ['nrf_5fmbr_5fcommands',['NRF_MBR_COMMANDS',['../nrf__drv__uart___p_p_8c.html#ad416fbc71855eb8e1533a812164b85a7',1,'nrf_drv_uart_PP.c']]],
+  ['nrf_5fmbr_5fsvcs',['NRF_MBR_SVCS',['../nrf__drv__uart___p_p_8c.html#aebb8642cfb30caf7eea66524b13c58be',1,'nrf_drv_uart_PP.c']]],
+  ['nrf_5fmutex_5fvalues',['NRF_MUTEX_VALUES',['../nrf__drv__uart___p_p_8c.html#ad6257be893447873c6b1c0b43cdcecf3',1,'nrf_drv_uart_PP.c']]],
+  ['nrf_5fpower_5fdcdc_5fmodes',['NRF_POWER_DCDC_MODES',['../nrf__drv__uart___p_p_8c.html#a0c5eb0d4a7014099e3410521358585a7',1,'nrf_drv_uart_PP.c']]],
+  ['nrf_5fpower_5fmodes',['NRF_POWER_MODES',['../nrf__drv__uart___p_p_8c.html#a66c4a4f3902bf8dfd3751c32e6589790',1,'nrf_drv_uart_PP.c']]],
+  ['nrf_5fpower_5fthresholds',['NRF_POWER_THRESHOLDS',['../nrf__drv__uart___p_p_8c.html#a3632f2fdc715316bd5c227fab6e17b90',1,'nrf_drv_uart_PP.c']]],
+  ['nrf_5fradio_5fcallback_5fsignal_5ftype',['NRF_RADIO_CALLBACK_SIGNAL_TYPE',['../nrf__drv__uart___p_p_8c.html#a2ecc6b5725b5075c2fc282d8f5b801b3',1,'nrf_drv_uart_PP.c']]],
+  ['nrf_5fradio_5fhfclk_5fcfg',['NRF_RADIO_HFCLK_CFG',['../nrf__drv__uart___p_p_8c.html#ac7d87a0d58b5d7b5a619d7587cd139a4',1,'nrf_drv_uart_PP.c']]],
+  ['nrf_5fradio_5fnotification_5fdistances',['NRF_RADIO_NOTIFICATION_DISTANCES',['../nrf__drv__uart___p_p_8c.html#a59b1a77ef6dcb1d75833e5c5f5251d58',1,'nrf_drv_uart_PP.c']]],
+  ['nrf_5fradio_5fnotification_5ftypes',['NRF_RADIO_NOTIFICATION_TYPES',['../nrf__drv__uart___p_p_8c.html#a20a90837e52ffbde1fb2ad81ef2db8c8',1,'nrf_drv_uart_PP.c']]],
+  ['nrf_5fradio_5fpriority',['NRF_RADIO_PRIORITY',['../nrf__drv__uart___p_p_8c.html#a5026e138e16d9a9664b804608062e9a1',1,'nrf_drv_uart_PP.c']]],
+  ['nrf_5fradio_5frequest_5ftype',['NRF_RADIO_REQUEST_TYPE',['../nrf__drv__uart___p_p_8c.html#a1d048df14a3eeef46aabec45e9643858',1,'nrf_drv_uart_PP.c']]],
+  ['nrf_5fradio_5fsignal_5fcallback_5faction',['NRF_RADIO_SIGNAL_CALLBACK_ACTION',['../nrf__drv__uart___p_p_8c.html#a21172c0e9efda8656ee3954b822a61f9',1,'nrf_drv_uart_PP.c']]],
+  ['nrf_5fsoc_5fevts',['NRF_SOC_EVTS',['../nrf__drv__uart___p_p_8c.html#a2a3d2f55035ee3173aff0c05465fb648',1,'nrf_drv_uart_PP.c']]],
+  ['nrf_5fsoc_5fsvcs',['NRF_SOC_SVCS',['../nrf__drv__uart___p_p_8c.html#af4f827d617d5692a5ef3c6e3febb85c5',1,'nrf_drv_uart_PP.c']]],
+  ['nrfx_5fdrv_5fstate_5ft',['nrfx_drv_state_t',['../nrf__drv__uart___p_p_8c.html#ae09c4084ccd60f0b39742ce7e5c85794',1,'nrf_drv_uart_PP.c']]]
+];

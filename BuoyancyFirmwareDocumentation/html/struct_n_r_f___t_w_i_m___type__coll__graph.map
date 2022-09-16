@@ -1,0 +1,5 @@
+<map id="NRF_TWIM_Type" name="NRF_TWIM_Type">
+<area shape="rect" id="node2" href="$struct_t_w_i_m___t_x_d___type.html" title="TWIM_TXD_Type" alt="" coords="5,5,133,32"/>
+<area shape="rect" id="node3" href="$struct_t_w_i_m___r_x_d___type.html" title="TWIM_RXD_Type" alt="" coords="157,5,288,32"/>
+<area shape="rect" id="node4" href="$struct_t_w_i_m___p_s_e_l___type.html" title="TWIM_PSEL_Type" alt="" coords="313,5,447,32"/>
+</map>

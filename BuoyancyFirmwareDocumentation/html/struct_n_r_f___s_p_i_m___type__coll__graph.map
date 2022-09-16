@@ -1,0 +1,5 @@
+<map id="NRF_SPIM_Type" name="NRF_SPIM_Type">
+<area shape="rect" id="node2" href="$struct_s_p_i_m___p_s_e_l___type.html" title="SPIM_PSEL_Type" alt="" coords="5,5,137,32"/>
+<area shape="rect" id="node3" href="$struct_s_p_i_m___t_x_d___type.html" title="SPIM_TXD_Type" alt="" coords="162,5,287,32"/>
+<area shape="rect" id="node4" href="$struct_s_p_i_m___r_x_d___type.html" title="SPIM_RXD_Type" alt="" coords="312,5,439,32"/>
+</map>

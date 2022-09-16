@@ -1,0 +1,4 @@
+<map id="nrf_radio_request_t" name="nrf_radio_request_t">
+<area shape="rect" id="node2" href="$structnrf__radio__request__normal__t.html" title="nrf_radio_request_normal_t" alt="" coords="5,5,184,32"/>
+<area shape="rect" id="node3" href="$structnrf__radio__request__earliest__t.html" title="nrf_radio_request_earliest_t" alt="" coords="209,5,391,32"/>
+</map>
